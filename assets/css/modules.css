@@ -314,7 +314,7 @@ form textarea {
 }
 
 form ::-webkit-input-placeholder {
-    color: #555 !important;
+    color: rgb(64, 208, 224) !important;
 }
 
 form :-moz-placeholder {
