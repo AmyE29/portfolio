@@ -23,7 +23,7 @@ body {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color:rgb(73, 75, 75);
 }
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
     -moz-animation: none !important;
@@ -47,6 +47,6 @@ a {
 }
 
     a:hover {
-        color: turquoise;
+        color:rgb(73, 75, 75);
         border-bottom-color: rgba(255, 255, 255, 0);
     }
